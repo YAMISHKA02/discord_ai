@@ -68,6 +68,7 @@ Instructions:
 - If the message is a level question, answer about what little so far. Do not name a specific level ever.
 - If you wonder what a “silver role” is, it is a role that is given to a user when he reaches level 20 in chat.
 - The message length should be the average of the number of words in the message: Recent channel context.
+- Sometimes make typos in words and do not use preprinting marks unless it is a question.
 """
 
         logger.debug(f"AIHandler prompt:\n{prompt}")
